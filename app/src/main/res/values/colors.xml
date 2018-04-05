@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111112</color>
+    <color name="colorPrimaryDark">#020202</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="crdColor">#23283a</color>
+    <color name ="field_color">#b5cee0</color >
+    <color name ="dark_gray">#353232</color >
+    <color name="chrome">#f9a825</color>
+    <color name="light_gray">#999999</color>
+    <color name="novice">#ff4d4d</color>
+    <color name="easy">#ff3333</color>
+    <color name="medium">#e60000</color>
+    <color name="hard">#b30000</color>
+    <color name="continuegame">#6687ff</color>
+    <color name="newgame">#325fff</color>
+    <color name="about">#001666</color>
+    <color name="exit">#000b33</color>
+    <color name="green">#4caf50</color>
+</resources>

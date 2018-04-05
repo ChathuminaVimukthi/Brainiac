@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_height">250dp</dimen>
+    <dimen name="logo_width">250dp</dimen>
+    <dimen name ="elevation_high">8dp </dimen>
+    <dimen name ="stroke_width">3dp </dimen>
+    <dimen name ="corner_radius">8dp </dimen>
+    <dimen name ="menu_padding">10dp </dimen>
+    <dimen name ="menu_space"> 10dp</dimen>
+    <dimen name ="menu_text_size"> 32sp </dimen>
+    <dimen name ="menu_button_margin">4dp </dimen>
+    <dimen name ="menu_button_padding"> 10dp </dimen>
+
+    <dimen name="round_button_height">65dp</dimen>
+    <dimen name="round_button_width">120dp</dimen>
+    <dimen name="round_button_margin">5dp</dimen>
+    <dimen name="round_button_textSize">28sp</dimen>
+    <dimen name="del_button_textSize">24sp</dimen>
+
+    <dimen name="guess_fontSize">28sp</dimen>
+</resources>
